@@ -4,8 +4,7 @@ https://public.tableau.com/views/CitiBikeAnalytics-Feb2022/January2022CitiBikeAn
 Citi Bike Analysis - January 2022
 Total Numbers
 
-The total number of rides per day is reflected in the first line chart. The highest number of rides found was 1,374 on 01/19/22 and the lowest number of rides found was 111 on 01/29/22. This sharp decrease in rides could be due to the snowstorm that took place on January 29th. Of the total number of 26,760 rides, 74.85% were Members while 25.15% were Casual Riders. The number of Casual Riders dropped towards the end of the month, which could be due to the weather during that time. Majority of riders are members, while a quarter of them are casual riders. 
-
+The total number of rides per day is reflected in the first line chart. The highest number of rides found was 1,374 on 01/19/22 and the lowest number of rides found was 111 on 01/29/22. This sharp decrease in rides could be due to the snowstorm that took place on January 29th. Of the total number of 26,760 rides, 74.85% were Members while 25.15% were Casual Riders. The number of Casual Riders dropped towards the end of the month, which could be due to the weather during that time.
 
 Most Popular Stations to Start a Trip
 
